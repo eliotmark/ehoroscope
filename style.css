@@ -1,0 +1,13 @@
+body {
+    background-image: url("img/stars.jpg");
+    color: white;
+    font-family: "Courier New", Courier, monospace;
+    vertical-align: center;
+    text-align: center;
+}
+
+button {
+    width: 50px;
+    color: #000000;
+}
+
